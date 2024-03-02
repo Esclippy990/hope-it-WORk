@@ -5417,7 +5417,7 @@
                   serverURL = serverURLs[4];
                   newlocationname = "the Crossroads";
                 } else if (newlocation == "sanc") {
-                  serverURL = serverURLs[2];
+                  serverURL = 'https://rock-it-4.glitch.me/';
                   newlocationname = "the Sanctuary";
                 } else if (newlocation == "2tdm") {
                   serverURL = 'https://rock-it-3.glitch.me/';
