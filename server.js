@@ -5420,10 +5420,10 @@
                   serverURL = serverURLs[2];
                   newlocationname = "the Sanctuary";
                 } else if (newlocation == "2tdm") {
-                  serverURL = serverURLs[5];
+                  serverURL = 'https://rock-it-3.glitch.me/';
                   newlocationname = "2 Teams";
                 } else if (newlocation == "4tdm") {
-                  serverURL = serverURLs[6];
+                  serverURL = 'https://rock-it-2.glitch.me/';
                   newlocationname = "4 Teams";
                 }
 
@@ -21749,9 +21749,9 @@
                   } else if (dim == "sanc") {
                     serverURL = serverURLs[2];
                   } else if (dim == "2tdm") {
-                    serverURL = serverURLs[5];
+                    serverURL = 'https://rock-it-3.glitch.me/';
                   } else if (dim == "4tdm") {
-                    serverURL = serverURLs[6];
+                    serverURL = 'https://rock-it-2.glitch.me/';
                   }
                   var packetToMainServer = [
                     player,
